@@ -3,6 +3,14 @@ jQuery Tokeninput: A Tokenizing Autocomplete Text Entry
 
 Overview
 --------
+Allow add id for custom entry.
+
+I make small change from this brand: https://github.com/loopj/jquery-tokeninput/pull/291
+
+Thanks for traceoutdoor to make jQuery Tokeninput can add custom entry.
+
+Original Project
+--------
 Tokeninput is a jQuery plugin which allows your users to select multiple items from a predefined list, using autocompletion as they type to find each item. You may have seen a similar type of text entry when filling in the recipients field sending messages on facebook.
 
 Documentation, Features and Demos
